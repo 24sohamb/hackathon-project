@@ -1,0 +1,51 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Place Order - Packing Station</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Place Your Order</h1>
+            <p>Select items and submit your order for processing</p>
+            <button id="themeToggle" class="theme-toggle">🌙</button>
+        </header>
+
+        <nav class="navigation">
+            <a href="index.html" class="nav-link active">Place Order</a>
+            <a href="dashboard.html" class="nav-link">Dashboard</a>
+        </nav>
+
+        <div class="order-form-container">
+            <form id="orderForm" class="order-form">
+                <div class="form-section">
+                    <h3>Order Details</h3>
+                    <div class="form-group">
+                        <label for="customerName">Customer Name:</label>
+                        <input type="text" id="customerName" required>
+                    </div>
+                </div>
+
+                <div class="form-section">
+                    <h3>Select Items</h3>
+                    <div id="itemsList" class="items-grid"></div>
+                </div>
+
+                <div class="order-summary">
+                    <h3>Order Summary</h3>
+                    <div id="selectedItems"></div>
+                </div>
+
+                <button type="submit" class="submit-btn">Submit Order</button>
+            </form>
+        </div>
+    </div>
+
+    <script src="master-items.js"></script>
+    <script src="order.js"></script>
+</body>
+</html>

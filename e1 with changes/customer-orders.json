@@ -1,0 +1,1006 @@
+[
+  {
+    "id": "ORD1756744285023",
+    "customerName": "VA",
+    "items": 2,
+    "itemDetails": [
+      {
+        "itemName": "Wireless Headphones",
+        "itemID": "ITM001",
+        "quantity": 9,
+        "packTime": 3,
+        "vas": false,
+        "fragile": true
+      },
+      {
+        "itemName": "Kitchen Knife Set",
+        "itemID": "ITM004",
+        "quantity": 7,
+        "packTime": 5,
+        "vas": true,
+        "fragile": true
+      }
+    ],
+    "estimatedTime": 92,
+    "priority": "Medium",
+    "hasVAS": true,
+    "hasFragile": true,
+    "status": "Assigned",
+    "station": "Multiple"
+  },
+  {
+    "id": "ORD1756744329454",
+    "customerName": "AV",
+    "items": 1,
+    "itemDetails": [
+      {
+        "itemName": "Wireless Headphones",
+        "itemID": "ITM001",
+        "quantity": 7,
+        "packTime": 3,
+        "vas": false,
+        "fragile": true
+      }
+    ],
+    "estimatedTime": 28,
+    "priority": "Medium",
+    "hasVAS": false,
+    "hasFragile": true,
+    "status": "Assigned",
+    "station": "Multiple"
+  },
+  {
+    "id": "ORD1756744506350",
+    "customerName": "abcd",
+    "items": 7,
+    "itemDetails": [
+      {
+        "itemName": "Smartphone Case",
+        "itemID": "ITM003",
+        "quantity": 1,
+        "packTime": 1,
+        "vas": false,
+        "fragile": false
+      },
+      {
+        "itemName": "Cotton T-Shirt",
+        "itemID": "ITM002",
+        "quantity": 1,
+        "packTime": 2,
+        "vas": true,
+        "fragile": false
+      },
+      {
+        "itemName": "Kitchen Knife Set",
+        "itemID": "ITM004",
+        "quantity": 1,
+        "packTime": 5,
+        "vas": true,
+        "fragile": true
+      },
+      {
+        "itemName": "Bluetooth Speaker",
+        "itemID": "ITM006",
+        "quantity": 1,
+        "packTime": 3,
+        "vas": false,
+        "fragile": true
+      },
+      {
+        "itemName": "Running Shoes",
+        "itemID": "ITM005",
+        "quantity": 1,
+        "packTime": 4,
+        "vas": true,
+        "fragile": false
+      },
+      {
+        "itemName": "Yoga Mat",
+        "itemID": "ITM007",
+        "quantity": 1,
+        "packTime": 2,
+        "vas": false,
+        "fragile": false
+      },
+      {
+        "itemName": "Coffee Mug",
+        "itemID": "ITM008",
+        "quantity": 4,
+        "packTime": 2,
+        "vas": false,
+        "fragile": true
+      }
+    ],
+    "estimatedTime": 37,
+    "priority": "Medium",
+    "hasVAS": true,
+    "hasFragile": true,
+    "status": "Assigned",
+    "station": "Multiple"
+  },
+  {
+    "id": "ORD1756749439750",
+    "customerName": "VANSHIKA",
+    "items": 4,
+    "itemDetails": [
+      {
+        "itemName": "Smartphone",
+        "itemID": "ITM0001",
+        "quantity": 5,
+        "packTime": 16,
+        "vas": true,
+        "fragile": true
+      },
+      {
+        "itemName": "Laptop",
+        "itemID": "ITM0002",
+        "quantity": 8,
+        "packTime": 18,
+        "vas": true,
+        "fragile": true
+      },
+      {
+        "itemName": "Headphones",
+        "itemID": "ITM0004",
+        "quantity": 5,
+        "packTime": 10,
+        "vas": false,
+        "fragile": true
+      },
+      {
+        "itemName": "Mirror",
+        "itemID": "ITM0013",
+        "quantity": 3,
+        "packTime": 11,
+        "vas": true,
+        "fragile": true
+      }
+    ],
+    "estimatedTime": 360,
+    "priority": "Medium",
+    "hasVAS": true,
+    "hasFragile": true,
+    "status": "Assigned",
+    "station": "Multiple"
+  },
+  {
+    "id": "ORD1756749557380",
+    "customerName": "X",
+    "items": 9,
+    "itemDetails": [
+      {
+        "itemName": "Smartphone",
+        "itemID": "ITM0001",
+        "quantity": 4,
+        "packTime": 16,
+        "vas": true,
+        "fragile": true
+      },
+      {
+        "itemName": "Headphones",
+        "itemID": "ITM0004",
+        "quantity": 2,
+        "packTime": 10,
+        "vas": false,
+        "fragile": true
+      },
+      {
+        "itemName": "Camera",
+        "itemID": "ITM0008",
+        "quantity": 1,
+        "packTime": 19,
+        "vas": false,
+        "fragile": true
+      },
+      {
+        "itemName": "Drone",
+        "itemID": "ITM0009",
+        "quantity": 1,
+        "packTime": 26,
+        "vas": true,
+        "fragile": true
+      },
+      {
+        "itemName": "Monitor",
+        "itemID": "ITM0010",
+        "quantity": 1,
+        "packTime": 19,
+        "vas": false,
+        "fragile": true
+      },
+      {
+        "itemName": "Bluetooth Speaker",
+        "itemID": "ITM0006",
+        "quantity": 1,
+        "packTime": 2,
+        "vas": true,
+        "fragile": true
+      },
+      {
+        "itemName": "Smartwatch",
+        "itemID": "ITM0005",
+        "quantity": 1,
+        "packTime": 18,
+        "vas": false,
+        "fragile": true
+      },
+      {
+        "itemName": "Folder",
+        "itemID": "ITM0110",
+        "quantity": 1,
+        "packTime": 2,
+        "vas": true,
+        "fragile": false
+      },
+      {
+        "itemName": "Binder",
+        "itemID": "ITM0109",
+        "quantity": 1,
+        "packTime": 30,
+        "vas": true,
+        "fragile": false
+      }
+    ],
+    "estimatedTime": 227,
+    "priority": "Medium",
+    "hasVAS": true,
+    "hasFragile": true,
+    "status": "Assigned",
+    "station": "Multiple"
+  },
+  {
+    "id": "ORD1756749581724",
+    "customerName": "X",
+    "items": 8,
+    "itemDetails": [
+      {
+        "itemName": "Smartphone",
+        "itemID": "ITM0001",
+        "quantity": 2,
+        "packTime": 16,
+        "vas": true,
+        "fragile": true
+      },
+      {
+        "itemName": "Smartwatch",
+        "itemID": "ITM0005",
+        "quantity": 2,
+        "packTime": 18,
+        "vas": false,
+        "fragile": true
+      },
+      {
+        "itemName": "Jeans",
+        "itemID": "ITM0032",
+        "quantity": 1,
+        "packTime": 25,
+        "vas": true,
+        "fragile": false
+      },
+      {
+        "itemName": "T-Shirt",
+        "itemID": "ITM0031",
+        "quantity": 1,
+        "packTime": 6,
+        "vas": false,
+        "fragile": false
+      },
+      {
+        "itemName": "Sneakers",
+        "itemID": "ITM0034",
+        "quantity": 1,
+        "packTime": 27,
+        "vas": true,
+        "fragile": false
+      },
+      {
+        "itemName": "Jacket",
+        "itemID": "ITM0033",
+        "quantity": 1,
+        "packTime": 23,
+        "vas": false,
+        "fragile": false
+      },
+      {
+        "itemName": "Dress",
+        "itemID": "ITM0035",
+        "quantity": 1,
+        "packTime": 11,
+        "vas": true,
+        "fragile": false
+      },
+      {
+        "itemName": "Scarf",
+        "itemID": "ITM0036",
+        "quantity": 1,
+        "packTime": 2,
+        "vas": true,
+        "fragile": false
+      }
+    ],
+    "estimatedTime": 178,
+    "priority": "Medium",
+    "hasVAS": true,
+    "hasFragile": true,
+    "status": "Assigned",
+    "station": "Multiple"
+  },
+  {
+    "id": "ORD1756749618350",
+    "customerName": "X",
+    "items": 7,
+    "itemDetails": [
+      {
+        "itemName": "Smartphone",
+        "itemID": "ITM0001",
+        "quantity": 1,
+        "packTime": 16,
+        "vas": true,
+        "fragile": true
+      },
+      {
+        "itemName": "Tablet",
+        "itemID": "ITM0003",
+        "quantity": 1,
+        "packTime": 21,
+        "vas": false,
+        "fragile": true
+      },
+      {
+        "itemName": "Headphones",
+        "itemID": "ITM0004",
+        "quantity": 1,
+        "packTime": 10,
+        "vas": false,
+        "fragile": true
+      },
+      {
+        "itemName": "Laptop",
+        "itemID": "ITM0002",
+        "quantity": 1,
+        "packTime": 18,
+        "vas": true,
+        "fragile": true
+      },
+      {
+        "itemName": "Crystal Bowl",
+        "itemID": "ITM0017",
+        "quantity": 1,
+        "packTime": 18,
+        "vas": true,
+        "fragile": true
+      },
+      {
+        "itemName": "Paint Can",
+        "itemID": "ITM0021",
+        "quantity": 1,
+        "packTime": 13,
+        "vas": true,
+        "fragile": true
+      },
+      {
+        "itemName": "Sneakers",
+        "itemID": "ITM0034",
+        "quantity": 5,
+        "packTime": 27,
+        "vas": true,
+        "fragile": false
+      }
+    ],
+    "estimatedTime": 255,
+    "priority": "Medium",
+    "hasVAS": true,
+    "hasFragile": true,
+    "status": "Assigned",
+    "station": "Multiple"
+  },
+  {
+    "id": "ORD1756749708831",
+    "customerName": "X",
+    "items": 3,
+    "itemDetails": [
+      {
+        "itemName": "Smartphone",
+        "itemID": "ITM0001",
+        "quantity": 2,
+        "packTime": 16,
+        "vas": true,
+        "fragile": true
+      },
+      {
+        "itemName": "Tablet",
+        "itemID": "ITM0003",
+        "quantity": 3,
+        "packTime": 21,
+        "vas": false,
+        "fragile": true
+      },
+      {
+        "itemName": "T-Shirt",
+        "itemID": "ITM0031",
+        "quantity": 4,
+        "packTime": 6,
+        "vas": false,
+        "fragile": false
+      }
+    ],
+    "estimatedTime": 128,
+    "priority": "Medium",
+    "hasVAS": true,
+    "hasFragile": true,
+    "status": "Assigned",
+    "station": "Multiple"
+  },
+  {
+    "id": "ORD1756749820408",
+    "customerName": "Alexa",
+    "items": 4,
+    "itemDetails": [
+      {
+        "itemName": "Smartphone",
+        "itemID": "ITM0001",
+        "quantity": 2,
+        "packTime": 16,
+        "vas": true,
+        "fragile": true
+      },
+      {
+        "itemName": "T-Shirt",
+        "itemID": "ITM0031",
+        "quantity": 4,
+        "packTime": 6,
+        "vas": false,
+        "fragile": false
+      },
+      {
+        "itemName": "Jacket",
+        "itemID": "ITM0033",
+        "quantity": 3,
+        "packTime": 23,
+        "vas": false,
+        "fragile": false
+      },
+      {
+        "itemName": "Laundry Detergent",
+        "itemID": "ITM0078",
+        "quantity": 2,
+        "packTime": 13,
+        "vas": false,
+        "fragile": true
+      }
+    ],
+    "estimatedTime": 159,
+    "priority": "Medium",
+    "hasVAS": true,
+    "hasFragile": true,
+    "status": "Assigned",
+    "station": "Multiple"
+  },
+  {
+    "id": "ORD1756751288101",
+    "customerName": "Aliceeee",
+    "items": 2,
+    "itemDetails": [
+      {
+        "itemName": "Smartphone",
+        "itemID": "ITM0001",
+        "quantity": 2,
+        "packTime": 16,
+        "vas": true,
+        "fragile": true
+      },
+      {
+        "itemName": "Jacket",
+        "itemID": "ITM0033",
+        "quantity": 4,
+        "packTime": 23,
+        "vas": false,
+        "fragile": false
+      }
+    ],
+    "estimatedTime": 130,
+    "priority": "Medium",
+    "hasVAS": true,
+    "hasFragile": true,
+    "status": "Assigned",
+    "station": "Multiple"
+  },
+  {
+    "id": "ORD1756751459903",
+    "customerName": "Iftikar",
+    "items": 5,
+    "itemDetails": [
+      {
+        "itemName": "Paint Can",
+        "itemID": "ITM0021",
+        "quantity": 2,
+        "packTime": 13,
+        "vas": true,
+        "fragile": true
+      },
+      {
+        "itemName": "Bed Frame",
+        "itemID": "ITM0048",
+        "quantity": 2,
+        "packTime": 20,
+        "vas": false,
+        "fragile": false
+      },
+      {
+        "itemName": "Mop",
+        "itemID": "ITM0077",
+        "quantity": 3,
+        "packTime": 9,
+        "vas": false,
+        "fragile": false
+      },
+      {
+        "itemName": "Doormat",
+        "itemID": "ITM0075",
+        "quantity": 2,
+        "packTime": 19,
+        "vas": true,
+        "fragile": false
+      },
+      {
+        "itemName": "Broom",
+        "itemID": "ITM0076",
+        "quantity": 1,
+        "packTime": 3,
+        "vas": true,
+        "fragile": false
+      }
+    ],
+    "estimatedTime": 146,
+    "priority": "Medium",
+    "hasVAS": true,
+    "hasFragile": true,
+    "status": "Assigned",
+    "station": "Multiple"
+  },
+  {
+    "id": "ORD1756751891340",
+    "customerName": "soham",
+    "items": 1,
+    "itemDetails": [
+      {
+        "itemName": "T-Shirt",
+        "itemID": "ITM0031",
+        "quantity": 6,
+        "packTime": 6,
+        "vas": false,
+        "fragile": false
+      }
+    ],
+    "estimatedTime": 36,
+    "priority": "Medium",
+    "hasVAS": false,
+    "hasFragile": false,
+    "status": "Assigned",
+    "station": "Multiple"
+  },
+  {
+    "id": "ORD1756752303729",
+    "customerName": "nandita",
+    "items": 5,
+    "itemDetails": [
+      {
+        "itemName": "Headphones",
+        "itemID": "ITM0004",
+        "quantity": 2,
+        "packTime": 10,
+        "vas": false,
+        "fragile": true
+      },
+      {
+        "itemName": "Smartwatch",
+        "itemID": "ITM0005",
+        "quantity": 2,
+        "packTime": 18,
+        "vas": false,
+        "fragile": true
+      },
+      {
+        "itemName": "Bluetooth Speaker",
+        "itemID": "ITM0006",
+        "quantity": 3,
+        "packTime": 2,
+        "vas": true,
+        "fragile": true
+      },
+      {
+        "itemName": "Camera",
+        "itemID": "ITM0008",
+        "quantity": 3,
+        "packTime": 19,
+        "vas": false,
+        "fragile": true
+      },
+      {
+        "itemName": "Gaming Console",
+        "itemID": "ITM0007",
+        "quantity": 2,
+        "packTime": 1,
+        "vas": false,
+        "fragile": true
+      }
+    ],
+    "estimatedTime": 139,
+    "priority": "Medium",
+    "hasVAS": true,
+    "hasFragile": true,
+    "status": "Assigned",
+    "station": "Multiple"
+  },
+  {
+    "id": "ORD1756752324591",
+    "customerName": "soham",
+    "items": 1,
+    "itemDetails": [
+      {
+        "itemName": "Smartphone",
+        "itemID": "ITM0001",
+        "quantity": 2,
+        "packTime": 16,
+        "vas": true,
+        "fragile": true
+      }
+    ],
+    "estimatedTime": 38,
+    "priority": "Medium",
+    "hasVAS": true,
+    "hasFragile": true,
+    "status": "Assigned",
+    "station": "Multiple"
+  },
+  {
+    "id": "ORD1756752366874",
+    "customerName": "naboja",
+    "items": 3,
+    "itemDetails": [
+      {
+        "itemName": "Bluetooth Speaker",
+        "itemID": "ITM0006",
+        "quantity": 3,
+        "packTime": 2,
+        "vas": true,
+        "fragile": true
+      },
+      {
+        "itemName": "Binder",
+        "itemID": "ITM0109",
+        "quantity": 2,
+        "packTime": 30,
+        "vas": true,
+        "fragile": false
+      },
+      {
+        "itemName": "Folder",
+        "itemID": "ITM0110",
+        "quantity": 2,
+        "packTime": 2,
+        "vas": true,
+        "fragile": false
+      }
+    ],
+    "estimatedTime": 87,
+    "priority": "Medium",
+    "hasVAS": true,
+    "hasFragile": true,
+    "status": "Assigned",
+    "station": "Multiple"
+  },
+  {
+    "id": "ORD1756753121601",
+    "customerName": "piyush ",
+    "items": 4,
+    "itemDetails": [
+      {
+        "itemName": "Laptop",
+        "itemID": "ITM0002",
+        "quantity": 2,
+        "packTime": 18,
+        "vas": true,
+        "fragile": true
+      },
+      {
+        "itemName": "Pesticide Bottle",
+        "itemID": "ITM0025",
+        "quantity": 3,
+        "packTime": 6,
+        "vas": true,
+        "fragile": true
+      },
+      {
+        "itemName": "Folder",
+        "itemID": "ITM0110",
+        "quantity": 2,
+        "packTime": 2,
+        "vas": true,
+        "fragile": false
+      },
+      {
+        "itemName": "Binder",
+        "itemID": "ITM0109",
+        "quantity": 3,
+        "packTime": 30,
+        "vas": true,
+        "fragile": false
+      }
+    ],
+    "estimatedTime": 173,
+    "priority": "Medium",
+    "hasVAS": true,
+    "hasFragile": true,
+    "status": "Assigned",
+    "station": "Multiple"
+  },
+  {
+    "id": "ORD1756754154216",
+    "customerName": "pythonn",
+    "items": 8,
+    "itemDetails": [
+      {
+        "itemName": "Laptop",
+        "itemID": "ITM0002",
+        "quantity": 2,
+        "packTime": 18,
+        "vas": true,
+        "fragile": true
+      },
+      {
+        "itemName": "Drone",
+        "itemID": "ITM0009",
+        "quantity": 2,
+        "packTime": 26,
+        "vas": true,
+        "fragile": true
+      },
+      {
+        "itemName": "Jacket",
+        "itemID": "ITM0033",
+        "quantity": 1,
+        "packTime": 23,
+        "vas": false,
+        "fragile": false
+      },
+      {
+        "itemName": "Sneakers",
+        "itemID": "ITM0034",
+        "quantity": 1,
+        "packTime": 27,
+        "vas": true,
+        "fragile": false
+      },
+      {
+        "itemName": "Scarf",
+        "itemID": "ITM0036",
+        "quantity": 2,
+        "packTime": 2,
+        "vas": true,
+        "fragile": false
+      },
+      {
+        "itemName": "Dress",
+        "itemID": "ITM0035",
+        "quantity": 2,
+        "packTime": 11,
+        "vas": true,
+        "fragile": false
+      },
+      {
+        "itemName": "Jeans",
+        "itemID": "ITM0032",
+        "quantity": 1,
+        "packTime": 25,
+        "vas": true,
+        "fragile": false
+      },
+      {
+        "itemName": "T-Shirt",
+        "itemID": "ITM0031",
+        "quantity": 1,
+        "packTime": 6,
+        "vas": false,
+        "fragile": false
+      }
+    ],
+    "estimatedTime": 219,
+    "priority": "Medium",
+    "hasVAS": true,
+    "hasFragile": true,
+    "status": "Assigned",
+    "station": "Multiple"
+  },
+  {
+    "id": "ORD1756757689466",
+    "customerName": "RM",
+    "items": 6,
+    "itemDetails": [
+      {
+        "itemName": "Gaming Console",
+        "itemID": "ITM0007",
+        "quantity": 2,
+        "packTime": 1,
+        "vas": false,
+        "fragile": true
+      },
+      {
+        "itemName": "Wine Bottle",
+        "itemID": "ITM0012",
+        "quantity": 1,
+        "packTime": 2,
+        "vas": false,
+        "fragile": true
+      },
+      {
+        "itemName": "Perfume Bottle",
+        "itemID": "ITM0019",
+        "quantity": 1,
+        "packTime": 19,
+        "vas": false,
+        "fragile": true
+      },
+      {
+        "itemName": "T-Shirt",
+        "itemID": "ITM0031",
+        "quantity": 1,
+        "packTime": 6,
+        "vas": false,
+        "fragile": false
+      },
+      {
+        "itemName": "Jeans",
+        "itemID": "ITM0032",
+        "quantity": 1,
+        "packTime": 25,
+        "vas": true,
+        "fragile": false
+      },
+      {
+        "itemName": "Sneakers",
+        "itemID": "ITM0034",
+        "quantity": 1,
+        "packTime": 27,
+        "vas": true,
+        "fragile": false
+      }
+    ],
+    "estimatedTime": 89,
+    "priority": "Medium",
+    "hasVAS": true,
+    "hasFragile": true,
+    "status": "Assigned",
+    "station": "Multiple"
+  },
+  {
+    "id": "ORD1756758165311",
+    "customerName": "VM",
+    "items": 4,
+    "itemDetails": [
+      {
+        "itemName": "Folder",
+        "itemID": "ITM0110",
+        "quantity": 4,
+        "packTime": 2,
+        "vas": true,
+        "fragile": false
+      },
+      {
+        "itemName": "Binder",
+        "itemID": "ITM0109",
+        "quantity": 3,
+        "packTime": 30,
+        "vas": true,
+        "fragile": false
+      },
+      {
+        "itemName": "Ironing Board",
+        "itemID": "ITM0094",
+        "quantity": 2,
+        "packTime": 15,
+        "vas": false,
+        "fragile": true
+      },
+      {
+        "itemName": "Picture Frame",
+        "itemID": "ITM0090",
+        "quantity": 1,
+        "packTime": 5,
+        "vas": true,
+        "fragile": false
+      }
+    ],
+    "estimatedTime": 151,
+    "priority": "Medium",
+    "hasVAS": true,
+    "hasFragile": true,
+    "status": "Assigned",
+    "station": "Multiple"
+  },
+  {
+    "id": "ORD1756759082989",
+    "customerName": "AA",
+    "items": 9,
+    "itemDetails": [
+      {
+        "itemName": "Smartphone",
+        "itemID": "ITM0001",
+        "quantity": 1,
+        "packTime": 16,
+        "vas": true,
+        "fragile": true
+      },
+      {
+        "itemName": "Tablet",
+        "itemID": "ITM0003",
+        "quantity": 1,
+        "packTime": 21,
+        "vas": false,
+        "fragile": true
+      },
+      {
+        "itemName": "Smartwatch",
+        "itemID": "ITM0005",
+        "quantity": 1,
+        "packTime": 18,
+        "vas": false,
+        "fragile": true
+      },
+      {
+        "itemName": "Mirror",
+        "itemID": "ITM0013",
+        "quantity": 1,
+        "packTime": 11,
+        "vas": true,
+        "fragile": true
+      },
+      {
+        "itemName": "Crystal Bowl",
+        "itemID": "ITM0017",
+        "quantity": 1,
+        "packTime": 18,
+        "vas": true,
+        "fragile": true
+      },
+      {
+        "itemName": "Car Battery",
+        "itemID": "ITM0023",
+        "quantity": 1,
+        "packTime": 27,
+        "vas": false,
+        "fragile": true
+      },
+      {
+        "itemName": "Pesticide Bottle",
+        "itemID": "ITM0025",
+        "quantity": 1,
+        "packTime": 6,
+        "vas": true,
+        "fragile": true
+      },
+      {
+        "itemName": "Jacket",
+        "itemID": "ITM0033",
+        "quantity": 1,
+        "packTime": 23,
+        "vas": false,
+        "fragile": false
+      },
+      {
+        "itemName": "T-Shirt",
+        "itemID": "ITM0031",
+        "quantity": 1,
+        "packTime": 6,
+        "vas": false,
+        "fragile": false
+      }
+    ],
+    "estimatedTime": 161,
+    "priority": "Medium",
+    "hasVAS": true,
+    "hasFragile": true,
+    "status": "Assigned",
+    "station": "Multiple"
+  }
+]

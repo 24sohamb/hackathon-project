@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Load Balancer Dashboard</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Packing Station Dashboard</h1>
+            <p>Monitor and balance workload across stations</p>
+            <button id="themeToggle" class="theme-toggle">🌙</button>
+        </header>
+
+        <nav class="navigation">
+            <a href="index.html" class="nav-link">Place Order</a>
+            <a href="dashboard.html" class="nav-link active">Dashboard</a>
+        </nav>
+
+        <div class="controls">
+            <div class="control-group">
+                <label for="stationCount">Number of Stations:</label>
+                <input type="number" id="stationCount" value="3" min="1" max="10">
+                <button onclick="balanceLoad()">Balance Load</button>
+            </div>
+        </div>
+
+        <div class="stats-grid">
+            <div class="stat-card">
+                <h3>Total Orders</h3>
+                <span id="totalOrders">0</span>
+            </div>
+            <div class="stat-card">
+                <h3>Active Stations</h3>
+                <span id="activeStations">0</span>
+            </div>
+            <div class="stat-card">
+                <h3>Avg Time</h3>
+                <span id="avgTime">0 min</span>
+            </div>
+            <div class="stat-card">
+                <h3>Efficiency</h3>
+                <span id="efficiency">0%</span>
+            </div>
+        </div>
+
+        <div class="charts-container">
+            <div class="chart-wrapper">
+                <canvas id="loadChart"></canvas>
+            </div>
+            <div class="chart-wrapper">
+                <canvas id="timeChart"></canvas>
+            </div>
+        </div>
+
+        <div id="stationsGrid" class="stations-grid"></div>
+
+        <div class="orders-section">
+            <h3>Current Orders</h3>
+            <div id="ordersGrid" class="orders-grid"></div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
